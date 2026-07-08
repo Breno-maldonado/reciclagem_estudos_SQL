@@ -82,5 +82,3 @@ Os exemplos presentes neste repositório foram desenvolvidos durante aulas, estu
 Desenvolvido por **Breno Maldonado**.
 
 ```
-
-Se quiser um README mais bonito, com badges, GIF, estatísticas do GitHub e um visual mais profissional para portfólio, também posso montar.
